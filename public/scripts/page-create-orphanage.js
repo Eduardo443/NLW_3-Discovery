@@ -71,7 +71,7 @@ const toggleSelect = (event) =>{
     button.classList.add('active')
 
     //atualizar o input com o valor
-    const input = document.querySelectorAll('[open-on-weekends]')
+    const input = document.querySelectorAll('[open_on_weekends]')
 
     input.value = button.dataset.value
 }
