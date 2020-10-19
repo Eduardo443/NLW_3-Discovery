@@ -75,3 +75,16 @@ const toggleSelect = (event) =>{
 
     input.value = button.dataset.value
 }
+
+//desafio verificação mapa
+function validate(event) {
+
+    //algo semelhante a linha 39 e 40 desse arquivo
+
+    //validar se lat e lng estão preenchifos
+    const needsLatAndLng = false//true or false
+    if(needsLatAndLng){
+        event.preventDefault()
+        alert('selecione um ponto no mapa')
+    }
+}
