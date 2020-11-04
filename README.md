@@ -5,7 +5,7 @@
   <img alt="Happy" src="happy.png" width="100%">
 </p>
 
-## Happy é uma plataforma com o intuito de conectar orfanatos a pessoas que buscam fazer o bem a uma criança em encessidade!
+## Happy é uma plataforma com o intuito de conectar orfanatos a pessoas que buscam fazer o bem a uma criança em necessidade!
 ----
 <br><br>
 ## De onde veio esse projeto?
